@@ -8,4 +8,4 @@
 
 #Screenshoot Aplikasi
 ![AdvancedWidget1](https://github.com/nafirfan/AdvancedWidget1/blob/master/advanced1.PNG)
-![AdvancedWidget12](https://github.com/nafirfan/AdvancedWidget1/blob/master/advanced12.PNGG)
+![AdvancedWidget12](https://github.com/nafirfan/AdvancedWidget1/blob/master/advanced12.PNG)

@@ -7,4 +7,4 @@
 * Sekolah : SMK Telkom Malang
 
 #Screenshoot Aplikasi
-![AdvancedWidget1](https://github.com/nafirfan/AdvancedWidget1/blob/master/advanced1.PNGg)
+![AdvancedWidget1](https://github.com/nafirfan/AdvancedWidget1/blob/master/advanced1.PNG)
